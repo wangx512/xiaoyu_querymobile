@@ -1,0 +1,48 @@
+
+body {
+	background-color: white;
+	border:10px solid;
+	border-color: #008566;
+	width: 100%;
+	height: 2120px;
+	color: black;
+	font-family: sans-serif;
+	text-align: center;
+	font-family: 'Varela Round', sans-serif;
+  background-image: url("background.jpg");
+	background-size: cover;
+}
+
+h1{
+	font-size: 100px;
+	Padding-top: 500px;
+	padding-bottom: 15px;
+}
+
+h2{
+	font-size: 36px;
+	padding-bottom: 100px;
+}
+
+p{
+	font-size: 24px;
+	margin: 0 120px;
+  padding-bottom: 300px;
+}
+
+.badminton {
+	color: #008566;
+}
+
+.button {
+  display: inline-block;
+  border-radius: 100px;
+  background-color: #008566;
+  border: none;
+  color: #ffffff;
+  text-align: center;
+  font-size: 48px;
+  padding: 25px;
+  width: 250px;
+  margin: 10px;
+}
